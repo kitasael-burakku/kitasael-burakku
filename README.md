@@ -33,7 +33,6 @@ Y la mayoría de mis aventuras en Linux también.
 
 * 🎮 RouletteRPS
 * 🐧 Linux & Hyprland customization
-* 🌲 Linux From Scratch (again...)
 * 📚 Learning more about operating systems and low-level concepts
 
 ---
@@ -42,7 +41,6 @@ Y la mayoría de mis aventuras en Linux también.
 
 * 🎮 RouletteRPS
 * 🐧 Personalización de Linux y Hyprland
-* 🌲 Linux From Scratch (otra vez...)
 * 📚 Aprendiendo más sobre sistemas operativos y conceptos de bajo nivel
 
 ---
