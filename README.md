@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**kitasael-burakku/kitasael-burakku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning by building.
 
-Here are some ideas to get you started:
+Linux, Hyprland, Python, game development and a dangerous amount of curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🇺🇸 Who am I?
+
+I'm an Engineering student who enjoys understanding how systems work instead of using them blindly.
+
+Most of my projects start with:
+
+> "What happens if I do this?"
+
+Most of my Linux adventures started the same way.
+
+---
+
+## 🇲🇽 ¿Quién soy?
+
+Soy estudiante de Ingeniería y me gusta entender cómo funcionan los sistemas en lugar de usarlos a ciegas.
+La mayoría de mis proyectos comienzan con:
+
+> "¿Qué pasa si hago esto?"
+
+Y la mayoría de mis aventuras en Linux también.
+
+---
+
+## 🇺🇸 What am I currently working on?
+
+* 🎮 RouletteRPS
+* 🐧 Linux & Hyprland customization
+* 🌲 Linux From Scratch (again...)
+* 📚 Learning more about operating systems and low-level concepts
+
+---
+
+## 🇲🇽 ¿En qué estoy trabajando actualmente?
+
+* 🎮 RouletteRPS
+* 🐧 Personalización de Linux y Hyprland
+* 🌲 Linux From Scratch (otra vez...)
+* 📚 Aprendiendo más sobre sistemas operativos y conceptos de bajo nivel
+
+---
+
+## 🇺🇸 What tools do I use?
+
+* OS: CachyOS / Arch Linux
+* WM: Hyprland
+* Shell: Fish
+* Terminal: Kitty
+* Editor: VSCodium / Nano
+* Languages: Python, Lua
+* Git & GitHub
+
+---
+
+## 🇲🇽 ¿Qué herramientas uso?
+
+* SO: CachyOS / Arch Linux
+* WM: Hyprland
+* Shell: Fish
+* Terminal: Kitty
+* Editor: VSCodium / Nano
+* Lenguajes: Python, Lua
+* Git y GitHub
+
+---
+
+## 🇺🇸 How to reach me?
+
+* GitHub: @kitasael-burakku
+* Discord: <DISCORD>
+
+---
+
+## 🇲🇽 ¿Cómo contactarme?
+
+* GitHub: @kitasael-burakku
+* Discord: <DISCORD>
+
+---
+
+> If it works, I document it.
+>
+> If it breaks, I learn from it.
