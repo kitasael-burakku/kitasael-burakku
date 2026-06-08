@@ -18,30 +18,11 @@ Most of my Linux adventures started the same way.
 
 ---
 
-## 🇲🇽 ¿Quién soy?
-
-Soy estudiante de Ingeniería y me gusta entender cómo funcionan los sistemas en lugar de usarlos a ciegas.
-La mayoría de mis proyectos comienzan con:
-
-> "¿Qué pasa si hago esto?"
-
-Y la mayoría de mis aventuras en Linux también.
-
----
-
 ## 🇺🇸 What am I currently working on?
 
 * 🎮 RouletteRPS
 * 🐧 Linux & Hyprland customization
 * 📚 Learning more about operating systems and low-level concepts
-
----
-
-## 🇲🇽 ¿En qué estoy trabajando actualmente?
-
-* 🎮 RouletteRPS
-* 🐧 Personalización de Linux y Hyprland
-* 📚 Aprendiendo más sobre sistemas operativos y conceptos de bajo nivel
 
 ---
 
@@ -57,32 +38,7 @@ Y la mayoría de mis aventuras en Linux también.
 
 ---
 
-## 🇲🇽 ¿Qué herramientas uso?
-
-* SO: CachyOS / Arch Linux
-* WM: Hyprland
-* Shell: Fish
-* Terminal: Kitty
-* Editor: VSCodium / Nano
-* Lenguajes: Python, Lua
-* Git y GitHub
-
----
-
 ## 🇺🇸 How to reach me?
 
 * GitHub: @kitasael-burakku
-* Discord: <DISCORD>
-
----
-
-## 🇲🇽 ¿Cómo contactarme?
-
-* GitHub: @kitasael-burakku
-* Discord: <DISCORD>
-
----
-
-> If it works, I document it.
->
-> If it breaks, I learn from it.
+* Discord: @kitasael-burakku
