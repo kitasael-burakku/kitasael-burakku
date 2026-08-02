@@ -1,44 +1,49 @@
 # Hi 👋
 
-Learning by building.
+I'm Asael.
 
-Linux, Hyprland, Python, game development and a dangerous amount of curiosity.
+I don't like black boxes.
 
----
+If I use a tool long enough, I'll eventually ask:
 
-## 🇺🇸 Who am I?
+> "How does this actually work?"
 
-I'm an Engineering student who enjoys understanding how systems work instead of using them blindly.
+That question has taken me through Linux, Hyprland, Lua, Python, game development, and probably a few broken systems along the way.
 
-Most of my projects start with:
-
-> "What happens if I do this?"
-
-Most of my Linux adventures started the same way.
+I enjoy building projects that help me understand computers a little better every day.
 
 ---
 
-## 🇺🇸 What am I currently working on?
+## Currently building
 
-* 🎮 RouletteRPS
-* 🐧 Linux & Hyprland customization
-* 📚 Learning more about operating systems and low-level concepts
-
----
-
-## 🇺🇸 What tools do I use?
-
-* OS: CachyOS / Arch Linux
-* WM: Hyprland
-* Shell: Fish
-* Terminal: Kitty
-* Editor: VSCodium / Nano
-* Languages: Python, Lua
-* Git & GitHub
+- 🎮 RouletteRPS — a terminal game mixing Rock-Paper-Scissors with Russian Roulette.
+- 🐧 A modular Hyprland configuration written in Lua.
+- 🎵 Maly — a terminal music player focused on simplicity and native desktop integration.
+- 📚 Learning operating systems, Linux internals and low-level concepts.
 
 ---
 
-## 🇺🇸 How to reach me?
+## Tech I enjoy
 
-* GitHub: @kitasael-burakku
-* Discord: @kitasael-burakku
+- Arch Linux / CachyOS
+- Hyprland
+- Fish Shell
+- Kitty
+- Python
+- Lua
+- Git
+
+---
+
+## Philosophy
+
+> Read → Understand → Adapt → Build.
+
+I believe understanding a system is far more valuable than copying it.
+
+---
+
+## Find me
+
+- GitHub → **@kitasael-burakku**
+- Discord → **@kitasael-burakku**
