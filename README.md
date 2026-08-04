@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm **Kitasael-nurakku**.
+I'm **Kitasael-burakku**.
 
 I don't like black boxes.
 
