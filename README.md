@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center">Sumi (づ￣ ³￣)づ</h2>
+<h2 align="center">Sumi ╰(*°▽°*)╯</h2>
 
 <p align="center"><strong>What the hell is Sumi?</strong></p>
 
