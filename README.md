@@ -13,9 +13,9 @@
 
 Sumi is my personal vision of what a desktop shell should be, and somehow it turned into a little ecosystem built around Qt/QML and Linux.
 
-- **Sumi Shell** — My own desktop shell, because apparently one bar wasn't enough.
-- **Sumi SDDM** — My own take on the login screen. Even logging in deserves some personality.
-- **Sumi Files** — My dotfiles, configurations, scripts, and the little things that make my desktop feel like home.
+- **[Sumi Shell](https://github.com/kitasael-burakku/Sumi-Shell)** — My own desktop shell, because apparently one bar wasn't enough.
+- **[Sumi SDDM](https://github.com/kitasael-burakku/Sumi-Sddm)** — My own take on the login screen. Even logging in deserves some personality.
+- **[Sumi Files](https://github.com/kitasael-burakku/Sumi-Files)** — My dotfiles, configurations, scripts, and the little things that make my desktop feel like home.
 
 Basically, I wanted a nice desktop and ended up building an ecosystem.
 
@@ -23,7 +23,7 @@ I could have just used the defaults, but where's the fun in that? (ง •̀_•
 
 ---
 
-<h2 align="center">Malody Mallow — Maly (￣▽￣)ノ</h2>
+<h2 align="center"><a href="https://github.com/kitasael-burakku/Malody-Mallow">Malody Mallow — Maly</a> (￣▽￣)ノ</h2>
 
 Maly is my terminal-based music player, written in Go. It is built around two main components:
 
